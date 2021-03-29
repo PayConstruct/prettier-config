@@ -1,0 +1,9 @@
+{
+  "name": "@payperform/prettier-config",
+  "version": "1.0.0",
+  "description": "Pay Perform prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:payconstruct/prettier-config.git",
+  "author": "PG",
+  "license": "MIT"
+}
