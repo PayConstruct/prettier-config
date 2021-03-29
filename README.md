@@ -1,7 +1,3 @@
-# `@payperform/prettier-config`
-
-> Pay Perform global [Prettier](https://prettier.io) config.
-
 ## Usage
 
 **Install**:
